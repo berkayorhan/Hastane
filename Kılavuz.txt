@@ -1,0 +1,33 @@
+Kullanım Adımları
+Giriş Yapma
+
+Adınızı ve TC Kimlik numaranızı girerek “Giriş Yap” butonuna tıklayın.
+
+Ana Menü
+
+Giriş yaptıktan sonra, doktor seçimi yapın ve saatleri görüntüleyin.
+
+Randevu Al: Seçilen doktor ve saatte randevu alın.
+
+Randevu Sil: Mevcut randevularınızı iptal edin.
+
+Randevularım: Aldığınız tüm randevuları görüntüleyin.
+
+Çıkış: Başka bir kullanıcı ile giriş yapabilirsiniz.
+
+Doktor ve Saat Seçimi
+
+Doktor Seçiniz kısmından doktoru seçin.
+
+Saat Seçiniz kısmından, seçilen doktorun uygun saatlerini görüntüleyin.
+
+Randevu Al ve İptal Etme
+
+Randevu Al butonuyla seçtiğiniz saatte randevu alın.
+
+Randevu Sil butonuyla alınan randevuları iptal edebilirsiniz.
+
+Arayüz Özellikleri
+Tkinter ile basit ve kullanıcı dostu bir arayüz oluşturulmuştur.
+
+Kullanıcılar, doktor seçimi, saat seçimi ve randevu işlemlerini kolayca yapabilir.
